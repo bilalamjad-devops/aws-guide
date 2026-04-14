@@ -89,12 +89,4 @@ The Lambda function processes the SNS message and logs it in CloudWatch.
 * Remove CloudWatch log groups.
 
 ---
-
-## 🚀 How to Use This Content
-
-* Upload it to your **aws-guide** GitHub repository.
-* Convert each lab into a Medium article.
-* Add architecture diagrams using Draw.io.
-* Share your work on LinkedIn and with the AWS community.
-
-If you'd like, I can also generate Terraform scripts for these labs to align with DevSecOps practices.
+Commit Date: 15-April-2026
