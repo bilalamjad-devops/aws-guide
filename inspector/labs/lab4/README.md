@@ -20,13 +20,13 @@ Instead of manual fixing:
 
 ## 🧩 Flow
 
-Inspector → CloudWatch → Lambda → Action
+Inspector → EventBridge Rule → Lambda → Action
 
 ---
 
 ## 🪜 Steps
 
-### Step 1: Create CloudWatch Rule
+### Step 1: Create EventBridge Rule
 
 * Trigger on Inspector findings
 
