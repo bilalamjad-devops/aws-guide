@@ -1,4 +1,7 @@
 
+<img width="512" height="512" alt="Config (1)" src="https://github.com/user-attachments/assets/89f4e5e9-db0e-4d31-adec-91c938eb4bde" />
+
+
 Great—**AWS Config** is one of the most important services for **compliance + governance**. If you present it well, it shows you understand how companies **enforce rules in cloud environments**.
 
 I’ll keep it **simple, practical, and industry-focused**, with **real-world labs** (not theory).
