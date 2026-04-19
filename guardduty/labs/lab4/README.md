@@ -60,3 +60,11 @@ Event pattern:
 * Or automated action executed
 
 ---
+
+
+
+## 🧠 Real Meaning
+
+> “Security is automated, not manual”
+
+---
