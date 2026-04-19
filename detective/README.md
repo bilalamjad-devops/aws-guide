@@ -1,5 +1,8 @@
 
 
+<img width="512" height="512" alt="Detective" src="https://github.com/user-attachments/assets/8a8692bc-c6fd-4f7a-bc6e-8559b463ac00" />
+
+
 Great—**AWS Detective** is exactly what shows you understand **incident investigation**, not just detection. I’ll keep it simple, practical, and aligned with real security workflows.
 
 ---
