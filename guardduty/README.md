@@ -1,4 +1,7 @@
 
+<img width="512" height="512" alt="GuardDuty" src="https://github.com/user-attachments/assets/8a8492fa-37bc-400b-8860-c7d4f645ee88" />
+
+
 Great—**GuardDuty** is one of the most important services for AWS security. If you present it well, it shows you understand **threat detection + real security workflows**.
 
 I’ll keep it **simple, practical, and industry-focused**, and I’ll use **EventBridge / CloudWatch terms properly (not overused)**.
