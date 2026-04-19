@@ -124,12 +124,6 @@ SNS / Lambda (Alert / Action)
 
 
 
-## 🧠 Real Meaning
-
-> “Security is automated, not manual”
-
----
-
 ---
 
 # 🔥 Big Understanding (VERY IMPORTANT)
