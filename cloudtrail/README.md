@@ -2,28 +2,7 @@
 
 Absolutely! Amazon CloudTrail is one of the most critical AWS services for security, governance, and compliance. Mastering it will significantly enhance your profile as an AWS Security and DevOps professional. Below is efficient, practical, and industry-focused content that you can directly add to your **aws-guide** GitHub repository.
 
----
 
-## 📁 Recommended Folder Structure
-
-```plaintext
-aws-guide/
-└── cloudtrail/
-    ├── README.md
-    └── labs/
-        ├── lab1-enable-cloudtrail/
-        │   └── README.md
-        ├── lab2-detect-unauthorized-api-activity/
-        │   └── README.md
-        ├── lab3-monitor-console-logins/
-        │   └── README.md
-        └── lab4-cloudtrail-security-automation/
-            └── README.md
-```
-
----
-
-## 📘 cloudtrail/README.md
 
 # AWS CloudTrail
 
