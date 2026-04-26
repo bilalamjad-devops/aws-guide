@@ -50,13 +50,4 @@ App / Logs / CI → S3 → Storage
 
 ---
 
-# 🤝 Final Step
 
-Now only few important left:
-
-👉 **VPC (VERY IMPORTANT — networking base)**
-👉 **Route53 (DNS + domain)**
-
----
-
-Tell me next 👍
