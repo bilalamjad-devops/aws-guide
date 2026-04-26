@@ -73,16 +73,4 @@ User → CloudFront → Backend (S3 / ALB / EKS)
 
 ---
 
-# 🤝 Final Suggestion (VERY IMPORTANT)
 
-Now your AWS guide is becoming **strong**.
-
-Next best topics:
-
-👉 **VPC (VERY IMPORTANT — interviews + real systems)**
-👉 **S3 (used everywhere)**
-👉 **Route53 (DNS — required with CloudFront)**
-
----
-
-Tell me next 👍
